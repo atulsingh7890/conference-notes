@@ -9,4 +9,18 @@
 - This is observability as per presenter - Moving Faster and building things to move faster. 
 - **Reaching Production is only the beginning.**
 - **No system is immune to failure: Be ready to recover**
+- **When Distributing the System | We are also distributing the Places | where things might go wrong**
+- **Monitoring Only applies to known failure modes , What about everything else ?
+  - Monitoring and Obesrvability is not the same thing.
+  - Because Monitoring is about the things you know. 
+  
+### Three Pillars of Observability
+- Metrics
+- Traces
+- Logs
+
+#### Events
+- High Cardinality Events is the core thing for Observability.
 - 
+
+
